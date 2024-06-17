@@ -412,5 +412,5 @@ loop0:
 	cbnz x18,loop1  // Si no es la última fila, salto
 	ret
 
-//cd d/Users/Usuario-/Desktop/rpi-asm-framebuffer
+//a
 
